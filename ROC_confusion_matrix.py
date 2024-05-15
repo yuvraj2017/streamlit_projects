@@ -51,7 +51,7 @@ def evaluate_model(model, X_test, y_test, threshold):
 st.title('Logistic Regression Evaluation')
 
 # User input for number of rows and threshold
-num_rows = st.sidebar.slider('Number of Rows', min_value=100, max_value=1000, value=500, step=100)
+num_rows = st.sidebar.slider('Number of Rows', min_value=100, max_value=1000, value=500, step=10)
 threshold = st.sidebar.slider('Threshold', min_value=0.1, max_value=0.9, value=0.5, step=0.01)
 
 # Generate sample data
