@@ -39,4 +39,5 @@ Welcome to my collection of immersive project demos! Embark on a journey through
 
 ---
 
-🌟 Dive into these demos to deepen your understanding of pivotal statistical concepts. Happy exploring! 🌟
+Dive into these demos to deepen your understanding of pivotal statistical concepts. Happy exploring! 🌟
+
